@@ -1,0 +1,3 @@
+C:/Users/asdcv/CLionProjects/Cstructure/cmake-build-debug/CMakeFiles/Cstructure.dir
+C:/Users/asdcv/CLionProjects/Cstructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asdcv/CLionProjects/Cstructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

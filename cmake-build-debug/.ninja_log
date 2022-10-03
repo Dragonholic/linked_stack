@@ -1,0 +1,8 @@
+# ninja log v5
+4	61	6855158369407629	CMakeFiles/Cstructure.dir/linkedlist.c.obj	6be53c992fd05a77
+1	57	6855158369377620	CMakeFiles/Cstructure.dir/main.c.obj	122179c5b175e62e
+61	136	6855158370137789	Cstructure.exe	99be79aa237d0138
+16	168	6863300962672393	CMakeFiles/Cstructure.dir/main.c.obj	122179c5b175e62e
+3	175	6863300962762376	CMakeFiles/Cstructure.dir/linkedlist.c.obj	6be53c992fd05a77
+4	96	6863301849582606	CMakeFiles/Cstructure.dir/stack.c.obj	b186ff694a67dbca
+97	279	6863301851333013	Cstructure.exe	2fa02c0e55bd5f6
